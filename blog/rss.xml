@@ -23,8 +23,8 @@
             <link>https://github.com/blog/second-blog-post-by-me</link>
             <guid>https://github.com/blog/second-blog-post-by-me</guid>
             <pubDate>Sat, 06 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Testing out some features of markdown here.]]></description>
-            <content:encoded><![CDATA[<p>Testing out some features of markdown here.</p><p>Let $f\colon<!-- -->[a,b]<!-- -->\to\R$ be Riemann integrable. Let $F\colon<!-- -->[a,b]<!-- -->\to\R$ be
+            <description><![CDATA[Testing out some features of markdown here. -- new text to see if katex was implemented.]]></description>
+            <content:encoded><![CDATA[<p>Testing out some features of markdown here. -- new text to see if katex was implemented.</p><p>Let $f\colon<!-- -->[a,b]<!-- -->\to\R$ be Riemann integrable. Let $F\colon<!-- -->[a,b]<!-- -->\to\R$ be
 $F(x)=\int_{a}^{x} f(t)\,dt$. Then $F$ is continuous, and at all $x$ such that
 $f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.</p><p>$$
 P(H|E)=\frac{P(H)\cdot P(E|H)}{P(E)}=\frac{P(H)\cdot P(E|H)}{P(H)\cdot P(E|H) + P(\neg H)\cdot P(E|\neg H)}
