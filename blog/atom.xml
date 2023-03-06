@@ -26,7 +26,7 @@
         <link href="https://github.com/blog/second-blog-post-by-me"/>
         <updated>2023-05-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Testing out some features of markdown here. -- new text to see if katex was implemented. second test. third if you will.]]></summary>
-        <content type="html"><![CDATA[<p>Testing out some features of markdown here. -- new text to see if katex was implemented. second test. third if you will.</p><p>aaand another. over and out. and another one... after yarn build. yet another one</p><p>Let $f\colon<!-- -->[a,b]<!-- -->\to\R$ be Riemann integrable. Let $F\colon<!-- -->[a,b]<!-- -->\to\R$ be
+        <content type="html"><![CDATA[<p>Testing out some features of markdown here. -- new text to see if katex was implemented. second test. third if you will.</p><p>aaand another. over and out. and another one... after yarn build. yet another one.</p><p>adding a new equation here. $E=mc^2$.</p><p>Let $f\colon<!-- -->[a,b]<!-- -->\to\R$ be Riemann integrable. Let $F\colon<!-- -->[a,b]<!-- -->\to\R$ be
 $F(x)=\int_{a}^{x} f(t)\,dt$. Then $F$ is continuous, and at all $x$ such that
 $f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.</p><p>$$
 P(H|E)=\frac{P(H)\cdot P(E|H)}{P(E)}=\frac{P(H)\cdot P(E|H)}{P(H)\cdot P(E|H) + P(\neg H)\cdot P(E|\neg H)}
