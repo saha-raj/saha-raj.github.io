@@ -25,8 +25,8 @@
         <id>https://github.com/blog/second-blog-post-by-me</id>
         <link href="https://github.com/blog/second-blog-post-by-me"/>
         <updated>2023-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Testing out some features of markdown here. -- new text to see if katex was implemented.]]></summary>
-        <content type="html"><![CDATA[<p>Testing out some features of markdown here. -- new text to see if katex was implemented.</p><p>Let $f\colon<!-- -->[a,b]<!-- -->\to\R$ be Riemann integrable. Let $F\colon<!-- -->[a,b]<!-- -->\to\R$ be
+        <summary type="html"><![CDATA[Testing out some features of markdown here. -- new text to see if katex was implemented. second test]]></summary>
+        <content type="html"><![CDATA[<p>Testing out some features of markdown here. -- new text to see if katex was implemented. second test</p><p>Let $f\colon<!-- -->[a,b]<!-- -->\to\R$ be Riemann integrable. Let $F\colon<!-- -->[a,b]<!-- -->\to\R$ be
 $F(x)=\int_{a}^{x} f(t)\,dt$. Then $F$ is continuous, and at all $x$ such that
 $f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.</p><p>$$
 P(H|E)=\frac{P(H)\cdot P(E|H)}{P(E)}=\frac{P(H)\cdot P(E|H)}{P(H)\cdot P(E|H) + P(\neg H)\cdot P(E|\neg H)}
