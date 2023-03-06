@@ -21,6 +21,22 @@
         <category label="dinos" term="dinos"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Second Blog Post by me]]></title>
+        <id>https://github.com/blog/second-blog-post-by-me</id>
+        <link href="https://github.com/blog/second-blog-post-by-me"/>
+        <updated>2023-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Testing out some features of markdown here.]]></summary>
+        <content type="html"><![CDATA[<p>Testing out some features of markdown here.</p><p>Let $f\colon<!-- -->[a,b]<!-- -->\to\R$ be Riemann integrable. Let $F\colon<!-- -->[a,b]<!-- -->\to\R$ be
+$F(x)=\int_{a}^{x} f(t)\,dt$. Then $F$ is continuous, and at all $x$ such that
+$f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.</p><p>$$
+P(H|E)=\frac{P(H)\cdot P(E|H)}{P(E)}=\frac{P(H)\cdot P(E|H)}{P(H)\cdot P(E|H) + P(\neg H)\cdot P(E|\neg H)}
+$$</p><table><thead><tr><th>Test header</th><th>second header</th><th>other header</th></tr></thead><tbody><tr><td>something</td><td>1</td><td>2</td></tr><tr><td>more</td><td>3</td><td>4</td></tr><tr><td>else</td><td>5</td><td>6</td></tr></tbody></table>]]></content>
+        <author>
+            <name>R S</name>
+        </author>
+        <category label="math" term="math"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Default Welcome]]></title>
         <id>https://github.com/blog/def-welcome</id>
         <link href="https://github.com/blog/def-welcome"/>
